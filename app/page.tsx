@@ -27,7 +27,7 @@ const Page = () => {
             href="#"
             className="px-8 py-3 text-lg font-semibold text-black bg-gradient-to-r from-yellow-400 to-red-500 rounded-full shadow-lg hover:scale-105 transform transition-all duration-300"
           >
-            COMING SOON!!!
+         Coming Soon!!!
           </a>
         </div>
       </div>
