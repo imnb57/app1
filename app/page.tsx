@@ -10,7 +10,7 @@ const Page = () => {
       <div className="z-10 text-center px-6">
         {/* Main Heading */}
         <h1 className="font-extrabold text-5xl sm:text-6xl md:text-7xl text-white leading-tight drop-shadow-md">
-          Welcome to <span className='text-fuchsia-400'>"dsfornoobs"</span> <br />
+          Welcome to <span className='text-fuchsia-400'>dsfornoobs</span> <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-500">
             Data Science for Beginners
           </span>
