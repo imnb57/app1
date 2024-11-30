@@ -16,6 +16,10 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "dsfornoobs.com",
   description: "Data science learning platform for beginners",
+  icons:{
+    icon:'../public/favicon.ico'
+  }
+    
 };
 
 export default function RootLayout({
