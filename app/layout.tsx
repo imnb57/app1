@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   title: "dsfornoobs.com",
   description: "Data science learning platform for beginners",
   icons:{
-    icon:'../public/favicon.ico'
-  }
+    icon:'./public/favicon.ico'
+  },
     
 };
 
